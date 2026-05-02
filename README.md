@@ -4,4 +4,4 @@
 
 # Windows execution as scheduled processing 
 
-In task scheduler choose .vbs file as executing       application
+Open task scheduler and choose .vbs file as executing application
