@@ -1,4 +1,5 @@
 @echo off
-::Your python absolute directory
+::Your current working path
 cd /d "C:\Users\egan2\Desktop\Keyboard_listening\"
 python3 "main.py"
+::Or python "main.py" 
